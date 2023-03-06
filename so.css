@@ -2,8 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Charm&display=swap');
 
 body{
- background-color:#999999;
-}  
+ background-color:rgb(96, 96, 211);
+ background-size: cover;
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+}   
   
 header{
   height: 10px;
